@@ -7,3 +7,4 @@ var mouse = new Mouse("Jerry", 5);
 dog.sayHi();
 cat.eat(mouse);
 dog.eat(cat);
+alert("hello, world!");
