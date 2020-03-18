@@ -5,6 +5,7 @@ var dog = new Dog("Husky", 15);
 var cat = new Cat("Tom", 10);
 var mouse = new Mouse("Jerry", 5);
 dog.sayHi();
+mouse.eat("Gao luc");
 cat.eat(mouse);
 dog.eat(cat);
 alert("hello, world!");
