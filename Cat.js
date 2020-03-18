@@ -1,1 +1,4 @@
-alert("Hello");
+function Cat() {
+  this.name = "Tom";
+  this.age = 10;
+}
